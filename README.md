@@ -209,4 +209,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Contact
 
 **Remote ProOps Engineering Division**  
-engineering@remoteproops.com
+remoteproops@gmail.com
