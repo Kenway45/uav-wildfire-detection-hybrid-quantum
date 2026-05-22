@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+
+# Large files — use Git LFS for model weights
+# *.pt
+# *.pth
+# *.onnx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Video / Alert output folders (runtime generated)
+edge_deployment/clips/
+edge_deployment/Fire_Alerts/
+edge_deployment/videos/
